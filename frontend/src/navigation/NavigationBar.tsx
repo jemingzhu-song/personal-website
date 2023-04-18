@@ -24,7 +24,7 @@ function NavigationBar() {
           </Button>
           <Button sx={{ textTransform: 'none', textDecoration: 'none', margin: '0px 20px' }} variant='text'>
             <StyledLink to='/experience'>
-              <Typography variant='body2'>✏️ Experience</Typography>
+              <Typography variant='body2'>🎓 Experience</Typography>
             </StyledLink>
           </Button>
           <Button sx={{ textTransform: 'none', textDecoration: 'none', margin: '0px 20px' }} variant='text'>
@@ -37,26 +37,18 @@ function NavigationBar() {
           <Button sx={{ textTransform: 'none', textDecoration: 'none', margin: '0px 20px' }} variant='text'>
             <a
               style={{ textDecoration: 'none', color: '#000000' }}
+              href='https://medium.com/@jeming.zhusong/'
+            >
+              <Typography variant='body2'>✏️ Blog</Typography>
+            </a>
+          </Button>
+          <Button sx={{ textTransform: 'none', textDecoration: 'none', margin: '0px 20px' }} variant='text'>
+            <a
+              style={{ textDecoration: 'none', color: '#000000' }}
               href='https://www.linkedin.com/in/jeming-zhu-song-181119178/'
             >
               <Typography variant='body2'>🤠 Jeming Zhu-Song</Typography>
             </a>
-          </Button>
-          <Button
-            sx={{
-              textTransform: 'none',
-              textDecoration: 'none',
-              margin: '0px 20px',
-              boxShadow: 'none',
-              borderRadius: '10px',
-            }}
-            variant='contained'
-          >
-            <StyledLink to='/technology'>
-              <Typography sx={{ color: '#FFFFFF' }} variant='body2'>
-                Contact
-              </Typography>
-            </StyledLink>
           </Button>
         </Box>
       </Toolbar>
