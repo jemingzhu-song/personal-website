@@ -1,6 +1,4 @@
 # personal-website
+Personal Website - Jeming Zhu-Song
+
 🍎🍓🍉🍑🍊🍯🧀🍌🍋 🥑🍈🍐🥝🍏🥦🥒🧊💧🫐🍇🍠🍣🥨🍪🍩🧋
-
-Jeming Zhu-Song
-
-Personal Website
