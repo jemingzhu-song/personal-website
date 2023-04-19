@@ -31,11 +31,11 @@ function App() {
         fontWeight: 600,
       },
       h3: {
-        fontSize: 24,
-        fontWeight: 600,
+        fontSize: 22,
+        fontWeight: 700,
       },
       body1: {
-        fontSize: 18,
+        fontSize: 16,
         fontWeight: 500,
       },
       body2: {
