@@ -4,7 +4,7 @@ import './App.css';
 import NavigationBar from './navigation/NavigationBar';
 import AboutPage from './pages/AboutPage';
 import ExperiencePage from './pages/ExperiencePage';
-import TechStackPage from './pages/TechStackPage';
+import TechStackPage from './pages/SkillsAndQualificationsPage';
 import ContactPage from './pages/ContactPage';
 import { Box } from '@mui/material';
 import HomePage from './pages/HomePage';
@@ -34,6 +34,10 @@ function App() {
         fontSize: 22,
         fontWeight: 700,
       },
+      h4: {
+        fontSize: 32,
+        fontWeight: 700,
+      },
       body1: {
         fontSize: 16,
         fontWeight: 500,
@@ -45,6 +49,10 @@ function App() {
       subtitle1: {
         fontSize: 14,
         fontWeight: 500,
+      },
+      subtitle2: {
+        fontSize: 16,
+        fontWeight: 700,
       },
     },
   });
