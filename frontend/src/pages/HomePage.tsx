@@ -1,6 +1,5 @@
 import HomeVideo from '../assets/home_video.mp4';
-import { Box, Typography } from '@mui/material';
-import Logo from '../assets/logo.png';
+import { Box } from '@mui/material';
 
 type HomePageProps = {
   homePageAudio: HTMLAudioElement;

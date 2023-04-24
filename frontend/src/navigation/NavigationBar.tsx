@@ -28,7 +28,7 @@ function NavigationBar() {
             </StyledLink>
           </Button>
           <Button sx={{ textTransform: 'none', textDecoration: 'none', margin: '0px 20px' }} variant='text'>
-            <StyledLink to='/technology'>
+            <StyledLink to='/skills'>
               <Typography variant='body2'>📟 Skills & Qualifications</Typography>
             </StyledLink>
           </Button>

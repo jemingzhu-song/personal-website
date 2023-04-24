@@ -1,7 +1,6 @@
-import { Box, Card, Typography } from '@mui/material';
-import React, { useEffect } from 'react';
+import { Box, Typography } from '@mui/material';
+import { useEffect } from 'react';
 import SkillsBackground from '../assets/skills_background.png';
-import Logo from '../assets/logo.png';
 import JavaLogo from '../assets/logos/java.png';
 import KotlinLogo from '../assets/logos/kotlin.png';
 import JavaScriptLogo from '../assets/logos/javascript.png';
